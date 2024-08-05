@@ -8,8 +8,8 @@
         "introImage": "./intro.PNG",
         "initCenter": [-118.244992, 34.055132],
         "homeZoom": 8,
-        "minZoom": 20,
-        "maxZoom": 45
+        "minZoom": 10,
+        "maxZoom": 15
     }
 ]
 
