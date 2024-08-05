@@ -9,7 +9,7 @@
         "initCenter": [-118.244992, 34.055132],
         "homeZoom": 10,
         "minZoom": 8,
-        "maxZoom": 10
+        "maxZoom": 1
     }
 ]
 
