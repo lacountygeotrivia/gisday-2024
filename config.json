@@ -7,9 +7,9 @@
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/survey123_b476c75fffc84a53b201828487f95754_results/FeatureServer/0",
         "introImage": "./intro.PNG",
         "initCenter": [-118.244992, 34.055132],
-        "homeZoom": 5,
+        "homeZoom": 8,
         "minZoom": 20,
-        "maxZoom": 15
+        "maxZoom": 45
     }
 ]
 
