@@ -6,7 +6,7 @@
         "description": "Let's check your geo-trivial knowledge ♜ GIS Day ♛ LA County ♚ 2024",
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/survey123_b476c75fffc84a53b201828487f95754_results/FeatureServer/0",
         "introImage": "./intro.PNG",
-        "initCenter": [241.754488, 34.055461],
+        "initCenter": [-118.239187, 34.048828],
         "homeZoom": 16,
         "minZoom": 13,
         "maxZoom": 20
