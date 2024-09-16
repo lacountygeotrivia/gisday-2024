@@ -7,7 +7,7 @@
         "introImage": "./statue_of_liberty.jpg",
         "initCenter": [-40, 29],
         "homeZoom": 16,
-        "minZoom": 11,
+        "minZoom": 13,
         "maxZoom": 18
     },
     {
