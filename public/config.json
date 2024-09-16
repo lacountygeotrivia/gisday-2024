@@ -8,7 +8,7 @@
         "initCenter": [-40, 29],
         "homeZoom": 3,
         "minZoom": 8,
-        "maxZoom": 2
+        "maxZoom": 1
     },
     {
         "path": "heritage-sites"
