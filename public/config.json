@@ -6,8 +6,8 @@
         "serviceURL": "https://services.arcgis.com/nzS0F0zdNLvs7nc8/arcgis/rest/services/survey123_06c53142eb21471999e11794c9e595ff_stakeholder/FeatureServer/0",
         "introImage": "./statue_of_liberty.jpg",
         "initCenter": [-40, 29],
-        "homeZoom": 12,
-        "minZoom": 12,
+        "homeZoom": 16,
+        "minZoom": 11,
         "maxZoom": 18
     },
     {
