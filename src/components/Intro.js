@@ -43,12 +43,12 @@ export const Intro = ({
                 <div className="flex-grow-1 h-100 w-100 m-2 m-md-3" 
                     style={{
                         flexBasis: "50%",
-                        maxWidth: "600px",
+                        maxWidth: "550px",
                         backgroundImage: `url(${hero})`,
                         backgroundRepeat: "no-repeat",
                         backgroundPosition: "center",
                         backgroundSize: "contain",
-                        maxHeight: "500px"
+                        maxHeight: "300px"
                     }}>            
                 </div>
             </div>
