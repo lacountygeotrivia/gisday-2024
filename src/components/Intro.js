@@ -38,7 +38,7 @@ export const Intro = ({
                         </div>
                         <button type="button" 
                                 className="btn btn-primary align-self-start mt-3 mt-md-5" 
-                            onClick={()=>dismiss()}>Get started!! >></button>
+                            onClick={()=>dismiss()}>Get started! >></button>
                 </div>
                 <div className="flex-grow-1 h-100 w-100 m-2 m-md-3" 
                     style={{
